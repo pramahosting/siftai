@@ -1,0 +1,6 @@
+email,display_name,role,password,is_active
+sample.user@example.com,Sam Sample,user,Passw0rd!,true
+priya.shah@example.com,Priya Shah,user,Passw0rd!,true
+jordan.lee@example.com,Jordan Lee,user,Passw0rd!,true
+maria.garcia@example.com,Maria Garcia,admin,Passw0rd!,true
+ben.carter@example.com,Ben Carter,user,Passw0rd!,false

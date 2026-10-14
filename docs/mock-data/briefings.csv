@@ -1,0 +1,41 @@
+"owner_email","local_date","run_type","rendered_text","generation_status","delivery_status","payload_json"
+"admin@example.test","today","demo","Morning briefing · Mock fixture
+
+Good morning. Today you have 2 meetings on your calendar, starting with product planning at 9:30 AM and finishing with the security review at 11:00 AM. Most of the preparation is light: skim the points listed under each meeting, bring any open questions from last time, and leave a few minutes between sessions so follow-ups do not pile up. Details for each meeting are below.
+
+Your meetings
+• 9:30 AM — Product planning and customer priorities
+  Prepare: Review launch checklist and confirm Thursday follow-ups.
+• 11:00 AM — Security review and release readiness
+  Prepare: Bring the open security findings.
+
+My take: Start with the first meeting prepared, since the later ones build on its decisions.","generated","mock_not_delivered","{""fixture"": true, ""meeting_count"": 2}"
+"sample.user@example.com","today","demo","Morning briefing · Mock fixture
+
+Good morning. Today you have 2 meetings on your calendar, starting with the team stand-up at 9:00 AM and ending with a design review at 1:30 PM. Most of the preparation is light: skim the points listed under each meeting, bring any open questions from last time, and leave a few minutes between sessions so follow-ups do not pile up. Details for each meeting are below.
+
+Your meetings
+• 9:00 AM — Team stand-up
+  Prepare: Note your blockers.
+• 1:30 PM — Design review: onboarding flow
+  Prepare: Review the latest screens.
+
+My take: Start with the first meeting prepared, since the later ones build on its decisions.","generated","mock_not_delivered","{""fixture"": true, ""meeting_count"": 2}"
+"sample.user@example.com","yesterday","demo","Morning briefing · Mock fixture
+
+Good morning. Yesterday you have 1 meeting on your calendar, a single sprint retrospective at 2:00 PM. Most of the preparation is light: skim the points listed under each meeting, bring any open questions from last time, and leave a few minutes between sessions so follow-ups do not pile up. Details for each meeting are below.
+
+Your meetings
+• 2:00 PM — Sprint retrospective
+  Prepare: Think about what went well.
+
+My take: Start with the first meeting prepared, since the later ones build on its decisions.","generated","mock_not_delivered","{""fixture"": true, ""meeting_count"": 1}"
+"priya.shah@example.com","today","demo","Morning briefing · Mock fixture
+
+Good morning. Today you have 1 meeting on your calendar, a single customer success sync at 10:00 AM. Most of the preparation is light: skim the points listed under each meeting, bring any open questions from last time, and leave a few minutes between sessions so follow-ups do not pile up. Details for each meeting are below.
+
+Your meetings
+• 10:00 AM — Customer success sync
+  Prepare: Bring this week's ticket trends.
+
+My take: Start with the first meeting prepared, since the later ones build on its decisions.","generated","mock_not_delivered","{""fixture"": true, ""meeting_count"": 1}"

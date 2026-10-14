@@ -1,0 +1,2 @@
+# Only needed to run against PostgreSQL. The build installs it when a ready-made package exists for your Python; otherwise it is skipped.
+asyncpg

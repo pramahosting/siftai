@@ -1,0 +1,13 @@
+owner_email,external_id,title,organizer,start_at,end_at,timezone,sensitivity,join_url,status,transcript_status,minutes_status
+admin@example.test,demo-product,Product planning and customer priorities,Alex Morgan,today 09:30,today 10:30,Australia/Sydney,normal,,scheduled,ready,draft_ready
+admin@example.test,demo-security,Security review and release readiness,Alex Morgan,today 11:00,today 11:45,Australia/Sydney,normal,,scheduled,not_available,not_started
+admin@example.test,demo-admin-weekly,Weekly platform check-in,Alex Morgan,tomorrow 10:00,tomorrow 10:30,Australia/Sydney,normal,,scheduled,not_available,not_started
+sample.user@example.com,demo-sample-standup,Team stand-up,Dana Kim,today 09:00,today 09:15,Australia/Sydney,normal,,scheduled,not_available,not_started
+sample.user@example.com,demo-sample-retro,Sprint retrospective,Dana Kim,yesterday 14:00,yesterday 15:00,Australia/Sydney,normal,,scheduled,ready,draft_ready
+sample.user@example.com,demo-sample-design,Design review: onboarding flow,Priya Shah,today 13:30,today 14:15,Australia/Sydney,normal,,scheduled,not_available,not_started
+sample.user@example.com,demo-sample-planning,Quarterly planning session,Dana Kim,+2d 10:00,+2d 11:30,Australia/Sydney,normal,,scheduled,not_available,not_started
+priya.shah@example.com,demo-priya-sync,Customer success sync,Sam Sample,today 10:00,today 10:30,Australia/Sydney,normal,,scheduled,not_available,not_started
+priya.shah@example.com,demo-priya-launch,Launch checklist walkthrough,Alex Morgan,tomorrow 15:00,tomorrow 15:45,Australia/Sydney,normal,,scheduled,not_available,not_started
+jordan.lee@example.com,demo-jordan-deploy,Deployment readiness,Alex Morgan,today 16:00,today 16:30,Australia/Sydney,normal,,scheduled,not_available,not_started
+jordan.lee@example.com,demo-jordan-incident,Incident review (last week),Maria Garcia,-3d 11:00,-3d 12:00,Australia/Sydney,normal,,scheduled,ready,draft_ready
+maria.garcia@example.com,demo-maria-budget,Budget and headcount review,Maria Garcia,tomorrow 09:00,tomorrow 10:00,Australia/Sydney,normal,,scheduled,not_available,not_started

@@ -1,0 +1,7 @@
+owner_email,meeting_external_id,description,owner,due_date,priority,status,evidence
+admin@example.test,demo-product,Update the customer setup guide,Priya,Thursday,normal,needs_review,I will update the customer setup guide by Thursday afternoon.
+admin@example.test,demo-product,Validate the deployment checklist,Jordan,Tomorrow,normal,needs_review,I can validate the deployment checklist tomorrow.
+sample.user@example.com,demo-sample-retro,Draft the new estimation template,Sam,+2d,high,in_progress,I will draft the new estimation template by Wednesday.
+sample.user@example.com,demo-sample-retro,Share the support ticket summary,Priya,+5d,normal,proposed,I will share the support ticket summary with the team on Monday.
+sample.user@example.com,demo-sample-retro,Break reporting tasks into smaller pieces,Dana,+7d,normal,completed,we will break reporting tasks into smaller pieces
+jordan.lee@example.com,demo-jordan-incident,Write the configuration check and get it reviewed,Jordan,+3d,high,in_progress,I will write the check and have it reviewed by Friday.

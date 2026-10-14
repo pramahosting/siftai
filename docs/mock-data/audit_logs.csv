@@ -1,0 +1,5 @@
+actor,action,resource_type,resource_id,safe_metadata_json
+sample.user@example.com,auth.signup,account,mock-audit-1,{}
+admin@example.test,settings.update,settings,mock-audit-2,"{""fields"": [""calendar_sync_minutes""]}"
+maria.garcia@example.com,minutes.approve,minutes,mock-audit-3,{}
+admin@example.test,user.create,user,mock-audit-4,"{""role"": ""user""}"

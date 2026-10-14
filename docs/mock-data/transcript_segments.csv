@@ -1,0 +1,19 @@
+owner_email,transcript_ref,sequence,start_seconds,end_seconds,speaker,text
+admin@example.test,tx-admin-product,0,0,7,Alex,We reviewed the onboarding launch and agreed to publish the revised checklist on Friday.
+admin@example.test,tx-admin-product,1,8,15,Priya,I will update the customer setup guide by Thursday afternoon.
+admin@example.test,tx-admin-product,2,16,23,Jordan,I can validate the deployment checklist tomorrow.
+admin@example.test,tx-admin-product,3,24,31,Alex,The analytics question is still open; we need Finance to confirm the reporting definition.
+sample.user@example.com,tx-sample-retro,0,0,7,Dana,Let us start with what went well this sprint.
+sample.user@example.com,tx-sample-retro,1,8,15,Sam,The new onboarding screens shipped on time.
+sample.user@example.com,tx-sample-retro,2,16,23,Priya,Support tickets about setup dropped by a third.
+sample.user@example.com,tx-sample-retro,3,24,31,Dana,What should we improve?
+sample.user@example.com,tx-sample-retro,4,32,39,Sam,Our estimates for the reporting work were too optimistic.
+sample.user@example.com,tx-sample-retro,5,40,47,Dana,"Agreed, we will break reporting tasks into smaller pieces."
+sample.user@example.com,tx-sample-retro,6,48,55,Sam,I will draft the new estimation template by Wednesday.
+sample.user@example.com,tx-sample-retro,7,56,63,Priya,I will share the support ticket summary with the team on Monday.
+jordan.lee@example.com,tx-jordan-incident,0,0,7,Maria,Walk me through the incident timeline.
+jordan.lee@example.com,tx-jordan-incident,1,8,15,Jordan,The deployment started at 11:05 and alerts fired at 11:20.
+jordan.lee@example.com,tx-jordan-incident,2,16,23,Maria,What was the cause?
+jordan.lee@example.com,tx-jordan-incident,3,24,31,Jordan,A configuration value was missing in the staging environment.
+jordan.lee@example.com,tx-jordan-incident,4,32,39,Maria,We decided to add a configuration check to the release checklist.
+jordan.lee@example.com,tx-jordan-incident,5,40,47,Jordan,I will write the check and have it reviewed by Friday.

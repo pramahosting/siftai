@@ -1,0 +1,4 @@
+kind,payload_json,status,attempts,max_attempts,last_error
+generate_minutes,"{""mock_ref"": ""job-1"", ""note"": ""sample completed job""}",completed,1,5,
+fetch_graph_transcript,"{""mock_ref"": ""job-2"", ""note"": ""sample failed job""}",failed,5,5,Official Teams transcript is not available yet
+transcribe_audio,"{""mock_ref"": ""job-3"", ""note"": ""sample completed job""}",completed,1,5,

@@ -1,0 +1,5 @@
+correlation_id,workflow_name,status,failure_stage,safe_error,retry_count
+demo-run-0001,minutes_generation,completed,,,0
+demo-run-0002,transcript_fetch,failed,fetch_graph_transcript,Official Teams transcript is not available yet,5
+demo-run-0003,calendar_sync,retrying,calendar_sync,Microsoft Graph is throttling requests,2
+demo-run-0004,morning_briefing,completed,,,0
